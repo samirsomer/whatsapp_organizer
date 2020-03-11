@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# my ignores
+datasets
+output
+whatsapp
+
 # Distribution / packaging
 .Python
 build/
