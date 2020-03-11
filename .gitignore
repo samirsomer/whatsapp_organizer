@@ -10,6 +10,7 @@ __pycache__/
 datasets
 output
 whatsapp
+.vscode
 
 # Distribution / packaging
 .Python
